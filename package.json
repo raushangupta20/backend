@@ -1,0 +1,21 @@
+{
+  "name": "reactpro",
+  "version": "1.0.0",
+  "description": "Basic app deploy",
+  "keywords": [
+    "node",
+    "rau"
+  ],
+  "license": "ISC",
+  "author": "Raushan Raj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0"
+  }
+}
